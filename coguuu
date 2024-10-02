@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Amor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #343a40;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            color: #e63946;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .heart {
+            font-size: 2em;
+            color: #e63946;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Para Minha Amada</h1>
+    <p>Hoje, eu quero celebrar você! 💖</p>
+    <p class="heart">❤️</p>
+    
+    <h2>Frases do Coração</h2>
+    <p>"Te amar é a melhor parte do meu dia!"</p>
+    <p>"Você é o meu sonho que se tornou realidade."</p>
+    <p>"Cada momento ao seu lado é um presente."</p>
+    <p>"Nosso amor é a luz que ilumina meu caminho."</p>
+    
+    <h2>Por que eu te amo</h2>
+    <p>Eu amo o seu sorriso, sua risada e a maneira como você torna tudo mais bonito.</p>
+    <p>Você é minha parceira, minha melhor amiga e meu amor eterno.</p>
+    <p>Juntos, somos mais fortes e mais felizes!</p>
+    
+    <h2>Um Compromisso</h2>
+    <p>Prometo estar ao seu lado em cada passo desta jornada.</p>
+    <p>Eu te amo hoje, amanhã e sempre!</p>
+</div>
+
+<footer>
+    <p>Feito com amor para você! ❤️</p>
+</footer>
+
+</body>
+</html>
